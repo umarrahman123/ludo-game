@@ -1,0 +1,39 @@
+*{
+    margin: 0; padding: 0;
+    font-family: "Acme", sans-serif;
+}
+
+body{
+    background-image: url('./assets/ludopic.jfif');
+    background-repeat: cover;
+    
+   
+    /* background: green; */
+}
+
+.container{
+    /* margin-top: 70px; */
+    width: 100%;
+    height: 100vh;
+    background-color: #16ebc4;
+    width: 70%; margin: auto; text-align: center;
+}
+.dice{
+    text-align: center; display: inline-block;
+}
+h1{
+    margin: 30PX;
+    text-shadow: 5px 0 white;
+    font-size: 6rem;
+    color: #f6b93b;
+}
+p{
+    font-size: 2rem; color: #b86500; text-shadow: 1px 1px white;
+}
+button{
+    padding: 10px; background-color: #024436; color: white; cursor: pointer;
+}
+img{
+    width: 75%;
+    margin: 0px 30px 0px 30px;
+}
